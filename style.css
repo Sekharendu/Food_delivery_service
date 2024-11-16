@@ -16,6 +16,9 @@
     position: relative;
     top: 0px;
 }
+#logo img{
+    border-radius:30%;
+}
 
 
 #navbar ul {
@@ -207,14 +210,13 @@ footer {
 
 .btn {
     color: white;
-    padding: 5px 7px;
     background-color: #dd4b4b;
-
     border: 2px solid white;
-    border-radius: 12px;
+    border-radius: 20px;
     margin: -15px 0px;
     cursor: pointer;
     font-size: 15px;
+    padding: 8px 12px;
 }
 
 .center {
